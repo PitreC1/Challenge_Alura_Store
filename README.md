@@ -6,7 +6,7 @@ Este proyecto consiste en el análisis de datos de ventas, rendimiento y reseña
 
 ## 📁 Contenido
 
-- `AluraStoreLatam..ipynb`: cuaderno Jupyter que contiene todo el análisis, visualizaciones y conclusiones del estudio.
+- `AluraStoreLatam.ipynb`: cuaderno Jupyter que contiene todo el análisis, visualizaciones y conclusiones del estudio.
 
 ---
 
@@ -26,4 +26,4 @@ Este proyecto consiste en el análisis de datos de ventas, rendimiento y reseña
 ```bash
 git clone https://github.com/PitreC1/Challenge_Alura_Store.git
 cd Challenge_Alure_Store
-jupyter notebook AluraStoreLatam..ipynb
+jupyter notebook AluraStoreLatam.ipynb
